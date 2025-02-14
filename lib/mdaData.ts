@@ -119,7 +119,7 @@ Madam Haja Salima Monorma Bah gained her LLB law degree from the University of W
 Madam Haja Salima Monorma Bah’s contributions have garnered global recognition. She was invited to Co-present with the co-founder of Giga to explore cutting edge SDG digital solutions, served as a panellist on an high level roundtable session on the USA Africa Business Week, Invited to the SDG Digital Event, Meta INC Conversation, Microsoft and American Tower Corporation Event, Nigeria Government Industry Trade and Investment and the Digital Economy Ministers Event, Collaborated with the Digital department of the African Development Bank Group, Digital Capacity Building Cooperation program in China, Joined other leaders in the Technology sector to discuss digital tools that can modernise public services at the 2024 digital Almaty in Kazakhstan, led a delegation to Nigeria for Technology Collaboration and was interviewed by Arise News Television and channels Television in Nigeria. 
 
 Madam Salima Bah brings a wealth of knowledge and experience in Innovation, Technology and leadership to her role. Her mandate for the ministry is to lead the President’s vision to use digital tools to empower Sierra Leone, propelling the nation to middle-income status by 2023. This will be achieved by engaging and developing national bills, policies, and strategies to promote communication, technology, and innovation. With a dedication to Monitor and evaluate these instruments and programs to ensure their effectiveness. `,
-      imageUrl: "/user-avatar.png",
+      imageUrl: "/ministers/salima.jpg",
       appointmentDate: "10 July 2023",
       education: [
         "MSc in Information Technology, University of Sierra Leone",
